@@ -34,7 +34,7 @@ For now, we can check our settings by running “git config --list” and this w
 
 basic terminal and git commands so you can start using the tool
 open terminal and type
-“mkdir git-practice” to create a new folder.
-“cd git-practice” to go into the folder that you just created.
-"code ." to open the folder in a code editor. 
-“touch hello.md” to create a new markdown file in our folder... **outdated command** (was not working 6.13)
+- “mkdir git-practice” to create a new folder.
+- “cd git-practice” to go into the folder that you just created.
+- "code ." to open the folder in a code editor. 
+- “touch hello.md” to create a new markdown file in our folder... **outdated command** (was not working 6.13)
