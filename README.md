@@ -23,18 +23,18 @@ Open up your terminal, run the command “git”, and you should see a list of a
 
 
 To configure git once downloaded use these commands:
-“git config --global user.name”, space, then your username in quotes like this.
+`git config --global user.name`, space, then your username in quotes like this.
 
-“git config --global user.email”, space, and then your email address,
+`git config --global user.email`, space, and then your email address,
 
 This tells git who made the change and gives you credit for the work that was done. If we run “git config”, you can see all the other configuration options that are available(didn't work)
 
-For now, we can check our settings by running “git config --list” and this will return the configuration options we just set. 
+For now, we can check our settings by running `git config --list` and this will return the configuration options we just set. 
 
 
 basic terminal and git commands so you can start using the tool
 open terminal and type
-- “mkdir git-practice” to create a new folder.
-- “cd git-practice” to go into the folder that you just created.
-- "code ." to open the folder in a code editor. 
-- “touch hello.md” to create a new markdown file in our folder... **outdated command** (was not working 6.13)
+- `mkdir git-practice` to create a new folder.
+- `cd git-practice` to go into the folder that you just created.
+- `code .` to open the folder in a code editor. 
+- `touch hello.md` to create a new markdown file in our folder... **outdated command** (was not working 6.13)
